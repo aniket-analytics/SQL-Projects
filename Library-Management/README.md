@@ -21,7 +21,7 @@ This project demonstrates the implementation of a Library Management System usin
 ## Project Structure
 
 ### 1. Database Setup
-![ERD](https://github.com/aniket-analytics/SQL-Projects/Library-Management/blob/main/library_erd.png)
+![Library ERD](https://raw.githubusercontent.com/aniket-analytics/SQL-Projects/main/Library-Management/library_erd.png)
 
 - **Database Creation**: Created a database named `library_db`.
 - **Table Creation**: Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
