@@ -71,9 +71,9 @@ Each project demonstrates my ability to **create structured databases, clean dat
 ## 👨‍💻 Author  
 
 **Aniket Yadav**  
-📧 [Email me](mailto:andyyadav12@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/aniket-yadav-/)  
-💻 [GitHub](https://github.com/aniket-analytics)  
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/aniket-yadav-/)
+- **Gmail**: [Connect with me professionally](mailto:andyyadav12@gmail.com)
+- **Github**: [Connect with me professionally](https://github.com/aniket-analytics)
 
 ---
 
