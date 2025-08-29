@@ -11,8 +11,6 @@ Each project demonstrates my ability to **create structured databases, clean dat
 
 ### 1️⃣ Library Management System using SQL  
 
-![Library Project](https://raw.githubusercontent.com/aniket-analytics/SQL-Projects/main/Library-Management/library.jpg)
-
 - **Level**: Intermediate  
 - **Database**: `library_db`  
 
@@ -23,8 +21,6 @@ Each project demonstrates my ability to **create structured databases, clean dat
 - Write **advanced SQL queries** for library operations (overdue books, issued counts, rental income, etc.).  
 
 **Key Highlights**:  
-- ERD Representation:  
-  ![Library ERD](https://raw.githubusercontent.com/aniket-analytics/SQL-Projects/main/Library-Management/library_erd.png)  
 - Designed relational schema with proper **primary & foreign keys**.  
 - Built queries for **frequent tasks** like overdue books, unreturned books, members with multiple issues, top branches, etc.  
 - Used **CTE & CTAS** for reusable and summarized insights.  
