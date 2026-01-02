@@ -288,21 +288,21 @@ FROM netflix_titles;
 ```
 
 ## Key Findings
-Movies dominate Netflix’s catalog, though TV Shows have grown rapidly
-Content additions peaked in specific expansion years
-The US and India are top content-producing countries
-Drama and International genres are most common
-Most Netflix content has been released in recent years
+- Movies dominate Netflix’s catalog, though TV Shows have grown rapidly.
+- Content additions peaked in specific expansion years.
+- The US and India are top content-producing countries.
+- Drama and International genres are most common.
+- Most Netflix content has been released in recent years.
 
 ## SQL Concepts Used
 - Data cleaning & preprocessing.
-Aggregate functions
-Window functions (LAG)
-CTEs
-String manipulation
-Conditional aggregation
-Date & time analysis
-View creation
+- Aggregate functions.
+- Window functions (LAG).
+- CTEs.
+- String manipulation.
+- Conditional aggregation.
+- Date & time analysis.
+- View creation.
 
 ## Conclusion
 This project demonstrates a complete SQL-only data analysis workflow, from raw data cleaning to advanced analytics. It highlights practical SQL skills required for real-world data analyst roles.
