@@ -295,7 +295,7 @@ Drama and International genres are most common
 Most Netflix content has been released in recent years
 
 ## SQL Concepts Used
-Data cleaning & preprocessing
+- Data cleaning & preprocessing.
 Aggregate functions
 Window functions (LAG)
 CTEs
