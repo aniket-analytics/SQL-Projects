@@ -311,5 +311,5 @@ This project demonstrates a complete SQL-only data analysis workflow, from raw d
 
 This project is part of my data analytics portfolio.
 
-LinkedIn: https://www.linkedin.com/in/aniket-yadav-/
-Email: aniket.analytics1210@gmail.com
+- LinkedIn: https://www.linkedin.com/in/aniket-yadav-/
+- Email: aniket.analytics1210@gmail.com
