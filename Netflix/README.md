@@ -3,7 +3,7 @@
 ## Project Overview
 
 **Project Title**: Netflix Content Analysis  
-**Level**: Beginner–Intermediate  
+**Level**: Intermediate  
 **Database**: `netflix_db`  
 **Table**: `netflix_titles`
 
